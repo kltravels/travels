@@ -2,6 +2,11 @@
     height: 350px;
 }
 
-.main-content{
+.main-content {
     margin-top: 60px;
+}
+
+.carousel-inner>.carousel-item>img {
+    margin: auto;
+    width:60%;
 }
